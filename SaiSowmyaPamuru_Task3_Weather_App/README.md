@@ -2,53 +2,82 @@
 
 ## Project Overview
 
-Weather App is a Python-based GUI application developed using Tkinter. The application fetches real-time weather information for a user-specified city using the OpenWeatherMap API.
+The Weather App is a Python GUI application developed using Tkinter. It fetches real-time weather information from the OpenWeatherMap API based on the city entered by the user. The application displays temperature, humidity, wind speed, pressure, weather conditions, and other useful information in a simple and user-friendly interface.
+
+---
 
 ## Features
 
-- User-friendly graphical interface
-- Real-time weather information
-- Temperature display
-- Humidity display
-- Weather condition display
-- Wind speed display
+- Search weather by city name
+- Current temperature
+- Feels like temperature
+- Humidity
+- Wind speed
+- Atmospheric pressure
+- Weather condition
 - Error handling for invalid city names
+- User-friendly GUI
+
+---
 
 ## Technologies Used
 
 - Python
 - Tkinter
-- Requests
+- Requests Library
 - OpenWeatherMap API
 
-## How to Run
+---
 
-1. Install required package:
+## Project Structure
 
-```bash
-pip install requests
+```
+SaiSowmyaPamuru_Task3_Weather_App
+│
+├── weather_app.py
+├── README.md
+└── screenshots
+    ├── home_screen.png
+    └── result_screen.png
 ```
 
-2. Add your API key in the code.
-
-3. Run:
-
-```bash
-python weather_app.py
-```
+---
 
 ## Screenshots
 
 ### Home Screen
 
-![Home Screen](screenshots/home_screen.png)
+<img src="./screenshots/home_screen.png" width="700"/>
 
-### Result Screen
+### Weather Result
 
-![Result Screen](screenshots/result_screen.png)
+<img src="./screenshots/result_screen.png" width="700"/>
+
+---
+
+##  How to Run
+
+1. Install Python
+2. Install Requests library
+
+```bash
+pip install requests
+```
+
+3. Add your OpenWeatherMap API Key
+
+```python
+API_KEY = "YOUR_API_KEY"
+```
+
+4. Run the program
+
+```bash
+python weather_app.py
+```
+
+---
 
 ## Developed By
 
 **Sai Sowmya Pamuru**
-
-Python Programming Internship Project – Oasis Infobyte
