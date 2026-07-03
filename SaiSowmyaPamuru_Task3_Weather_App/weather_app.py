@@ -3,7 +3,7 @@ from tkinter import messagebox
 import requests
 
 
-API_KEY = "a2e009af39e896fe8e93a83d3194529b"
+API_KEY = "YOUR_OPENWEATHERMAP_API_KEY"
 
 
 def get_weather():
