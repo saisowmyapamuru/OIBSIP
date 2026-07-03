@@ -47,11 +47,11 @@ SaiSowmyaPamuru_Task3_Weather_App
 
 ### Home Screen
 
-<img src="./screenshots/home_screen.png" width="700"/>
+<img src="./Screenshots/home_screen.png" width="700"/>
 
 ### Weather Result
 
-<img src="./screenshots/result_screen.png" width="700"/>
+<img src="./Screenshots/result_screen.png" width="700"/>
 
 ---
 
