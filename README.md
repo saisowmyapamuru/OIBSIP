@@ -149,7 +149,7 @@ The Voice Assistant is a simple Python application that recognizes voice command
 
 ### Screenshot
 
-<img src="./SaiSowmyaPamuru_Task4_Voice_Assistant/Screenshots/output_screen.png" width="700"/>
+<img src="./SaiSowmyaPamuru_Task4_VoiceAssistant/Screenshots/output_screen.png" width="700"/>
 
 ---
 
