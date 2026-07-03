@@ -54,6 +54,7 @@ SaiSowmyaPamuru_Task3_Weather_App
 <img src="./Screenshots/result_screen.png" width="700"/>
 
 ---
+Note: To run this project, generate your own OpenWeatherMap API key and replace the placeholder API key in the source code.
 
 ##  How to Run
 
