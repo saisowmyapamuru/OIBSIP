@@ -12,7 +12,7 @@ This repository contains all the Python projects completed during my internship.
 
 ---
 
-# 📌 Internship Details
+# Internship Details
 
 - **Organization:** Oasis Infobyte
 - **Domain:** Python Programming
@@ -47,11 +47,11 @@ The BMI Calculator is a GUI-based application developed using Python and Tkinter
 
 #### Home Screen
 
-<img src="./SaiSowmyaPamuru_Task1_BMI_Calculator/Screenshots/home_screen.png" width="700"/>
+<img src="./SaiSowmyaPamuru_Task1_BMI_Calculator/screenshots/home_screen.png" width="700"/>
 
 #### Result Screen
 
-<img src="./SaiSowmyaPamuru_Task1_BMI_Calculator/Screenshots/result_screen.png" width="700"/>
+<img src="./SaiSowmyaPamuru_Task1_BMI_Calculator/screenshots/result_screen.png" width="700"/>
 
 ---
 
@@ -80,11 +80,11 @@ The Random Password Generator is a GUI-based application that generates secure p
 
 #### Home Screen
 
-<img src="./SaiSowmyaPamuru_Task2_Password_Generator/Screenshots/home_screen.png" width="700"/>
+<img src="./SaiSowmyaPamuru_Task2_Password_Generator/screenshots/home_screen.png" width="700"/>
 
 #### Result Screen
 
-<img src="./SaiSowmyaPamuru_Task2_Password_Generator/Screenshots/result_screen.png" width="700"/>
+<img src="./SaiSowmyaPamuru_Task2_Password_Generator/screenshots/result_screen.png" width="700"/>
 
 ---
 
