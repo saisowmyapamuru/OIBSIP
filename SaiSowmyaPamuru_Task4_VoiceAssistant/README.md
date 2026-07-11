@@ -63,6 +63,6 @@ python voice_assistant.py
 
 ---
 
-## 👩‍💻 Developed By
+## Developed By
 
 **Sai Sowmya Pamuru**
